@@ -1,0 +1,12 @@
+name: spib_we
+channels:
+  - conda-forge
+dependencies:
+  - openmm=7.7.0=py310hccf1d78_1
+  - openmm-plumed=1.0=py310hbe3ad0c_6
+  - plumed=2.7.3=nompi_h8de8e23_100
+  - pytorch=1.12.1=cpu_py310h02c325b_1
+  - westpa=2022.03=py310h5764c6d_0
+  - pip:
+    - spib
+    - spib-we

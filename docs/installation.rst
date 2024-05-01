@@ -8,13 +8,21 @@ Installation
 Stable release
 --------------
 
-To install SPIB-WE plug-in, run this command in your terminal:
+To install :code:`spib_we`:
+
+.. code-block:: bash
+
+    cd </path/to/spib_we>
+
+    conda env create -f environment.yml
+
+To just install :code:`spib_we` plug-in, run this command in your terminal:
 
 .. code-block:: console
 
     $ pip install spib_we
 
-This is the preferred method to install SPIB-WE plug-in, as it will always install the most recent stable release.
+This is the preferred method to install :code:`spib_we` plug-in, as it will always install the most recent stable release.
 
 If you don't have `pip`_ installed, this `Python installation guide`_ can guide
 you through the process.
