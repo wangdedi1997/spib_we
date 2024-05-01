@@ -26,7 +26,10 @@ This is a WESTPA 2.0 plug-in for SPIB augmented weighted ensemble.
 Features
 --------
 
-* TODO
+* Employ SPIB to automatically construct low-dimensional CVs to augment weighted ensemble simulations;
+* Implement a rectilinear grid binning scheme to automatically determine bin sizes for uniformly binning SPIB-learned CVs;
+* Propose a hybrid approach that combines SPIB-learned CVs with expert-based CVs to achieve more reliable sampling.
+
 
 Credits
 -------
